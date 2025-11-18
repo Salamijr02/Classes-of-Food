@@ -56,9 +56,8 @@ h1 span{
 ul{
     list-style: square;
 }
-.water ul{
-    list-style: disc;
-}
+;
+
 a{
     text-decoration: none;
 }
